@@ -1,0 +1,2 @@
+# trex
+an infinite game
